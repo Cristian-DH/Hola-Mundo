@@ -3,49 +3,29 @@ Investigar como escribir un hola mundo en tres lenguajes diferentes
 
 •	En python: 
 
-
 print("¡Hola, mundo!")
-
 
 •	En Java:
 
-
 public class HolaMundo {
-
-
     public static void main(String[] args) {
-
-    
         System.out.println("Hola Mundo");
-
-        
     }
-
-    
 }
 
 
 •	En Javascript:
-
 
 console.log("Hola Mundo");
 
 
 •	En C++:
 
-
 #include <iostream>
 
-
 int main() {
-
-
     std::cout << "Hola Mundo" << std::endl;
-
-    
     return 0;
-
-    
 }
 
 
